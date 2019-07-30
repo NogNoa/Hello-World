@@ -1,2 +1,5 @@
 # Hello-World
-a trial repository
+A Trial Clown
+Can you see me?
+
+Do you know me?
