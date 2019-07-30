@@ -1,11 +1,13 @@
 edits
 # Hello-World 
-a trial repository /nl
+a trial repository 
+
 Lo, thou holy hypocracy 
 
 # Hello-Guys
-A Trial Clown /nl
-Can you see me? /nl
+A Trial Clown 
+
+Can you see me? 
 
 Do you know me? 
 
